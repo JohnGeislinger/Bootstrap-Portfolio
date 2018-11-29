@@ -1,0 +1,10 @@
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 980px;
+}
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
